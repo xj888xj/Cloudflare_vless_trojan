@@ -294,20 +294,10 @@ CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字
 首次安装后，请先安装依赖：```apk add curl bash```，然后运行以下你要使用的脚本
 
 -------------------------------------------------------------
-### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
-```
-curl -sSL https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
-```
--------------------------------------------------------------
 
-### 脚本2：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
+### 脚本：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
-```
-------------------------------------------------------------------------
-### 脚本3：CF-优选官方IP脚本（带测速），苹果安卓手机平板专用：
-```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 ```
 -------------------------------------------------------------
 
